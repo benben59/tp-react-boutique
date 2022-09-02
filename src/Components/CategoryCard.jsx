@@ -6,7 +6,7 @@ const CategoryCard = () => {
       <div className="container">
         <div className="card">
           <img
-            src="https://www.pika.fr/sites/default/files/images/livres/couv/9782811618124-T.jpg"
+            src="../../assets/img/9782811618124-T.jpg"
             alt="Category"
           />
           <h4>Category title</h4>
