@@ -1,11 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
-import Homescreen from './Pages/Homescreen';
+import logo from "./logo.svg";
+import "./App.css";
+import Homescreen from "./Pages/Homescreen";
 
 function App() {
   return (
     <>
-    <Homescreen />
+      <div className="container">
+        <Homescreen />
+      </div>
     </>
   );
 }
